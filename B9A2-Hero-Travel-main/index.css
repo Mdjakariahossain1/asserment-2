@@ -422,42 +422,56 @@ footer{
     }
     .backround-image{
         background-repeat: no-repeat;
-        width: 335px;
         height: 483px;
-        margin-left: 100px;
-        background-position-x: -424px;
+        background-position-x: -321px;
+    border-radius: 16px;
+    height: 493px;
+     
     }
     .title-contenair2{
         width: 517px;
-    font-size: 20px;
     padding-top: 23px ;
-    margin-left: -82px;
+     
+    font-size: 31px;
+    margin-left: 19px 
 
     }
     .manu-baton{
         display: grid;
         gap: 10px;
-        margin-left: 122px;
-        margin-top: 205px;
+        margin-left: 110px;
+         
+        margin-top: 117px
+         
    
     }
     .manu-baton-manu{
-        width: 112px;
-        height: 29px;
+        width: 366px;
+        height: 36px 
     }
     .manu-baton-manu4{
-        width: 112px;
-        height: 29px
+        width: 366px;
+        height: 36px 
     }
     .diskaripsition{
-        width: 254px;
-        font-size: 11px;
-        margin-left: 49px;
+         
+        width: 401px;
+    font-size: 17px;
+    margin-left: 93px;
+    }
+    .diskaripsition3{
+        width: 496px;
+        color: rgba(19, 19, 24, 0.70);
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 24px;
+        margin-left: -128px;
+        
     }
     icon{
         flex-direction: column;
     }
-    backround-image{
+    .backround-image{
         width: 100%;
     }
     header{
@@ -468,6 +482,7 @@ footer{
     }
     nav ul{
         flex-direction: column;
+    margin-left: -132px;
     }
     .section-a{
         flex-direction: column;
@@ -475,12 +490,106 @@ footer{
     .hotel-oll-tag{
         flex-direction: column;
     }
-
-
+    h1{
+        margin-left: -165px ;
+        font-size: 40px;
+        color: #131318;
+        margin-bottom: 24px;
+        width: 442px;
+    }
+    .btn-2{
+      
+        margin-left: -102px 
+    }
+    ul{
+        margin-left: -132px
+    }
+    .images-photo{
+        margin-left: -110px;
+    }
+    .title-image-title{
+        width: 307px 
+    }
+.diskaripsition5{
+    margin-left: -106px;
+    width: 502px;
 }
-
-
-
-@media screen and (m) {
+.a10{
+    margin-left: -130px 
+}
+.title-diskaripsition{
+    width: 501px;
+    margin-left: -90px;
+}
+.hotel-section{
+    margin-left: -130px;
+}
+.map-section{
+    margin-left: -130px;
+}
+.price-section{
+    margin-left: -130px;
+}
+.deals-3{
+    margin-left: -40px;
+    width: 407px;
+}
+.pic-up{
+    margin-left: -125px;
+}
+.pic-up img{
+    width: 565px;
+}
+.a-Simple{
+    flex-direction: column;
+}
+ .a-Simple-2{
+    margin-left: -135px;
+ }
+ .a1{
+    margin-left: -107px;
+    width: 499px;
+ }
+ .btn-4{
+    margin-left: -343px;
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FF5400;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 800;
+    border: 0px;
+    margin-left: -113px;
+ }
+ .a10{ margin-left: -137px;
+     width: 588px;
+     margin-top: 24px }
+     .Newsletter{
+       flex-direction: column;
+     }
+     .a11{
     
+    margin-left: -138px;
+    width: 586px;
+     }
+     .last{
+        width: 398px;
+        margin: 0 auto;
+     }
+     .abcd{
+        display: flex;
+        margin-left: 218px;
+    margin-bottom: 20px;
+     }
+     footer{
+        width: 597px;
+        margin-left: -6px;
+     }
+     .a12{
+        width: 100%;
+     }
 }
+
+ 
