@@ -45,7 +45,7 @@ font-weight: 800;
  }
 
  .backround-image{
-    background-image: url(/B9A2-Hero-Travel-main/Images/Group\ 13\ \(1\)\ \(1\).png);
+    background-image: url("../B9A2-Hero-Travel-main/Images/Group\ 13\ \(1\)\ \(1\).png");
     width: 1170px;
     height: 500px;
   
