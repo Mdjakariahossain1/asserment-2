@@ -406,7 +406,12 @@ footer{
 .wotar-mark{
     margin-top: 100px;
 }
-
+ .comla{
+    color: #FF5400;
+ 
+    font-size: 36px;
+    font-weight: 800;
+ }
 
 
 
@@ -476,7 +481,7 @@ footer{
         
     }
    
-    }
+
     .backround-image{
         width: 100%;
     }
