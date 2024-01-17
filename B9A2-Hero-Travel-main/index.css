@@ -418,7 +418,10 @@ footer{
 
 @media screen and (max-width:600px) {
     nav{
-        flex-direction: column;
+       
+        font-size: 21.543px;
+        display: flex;
+       
     }
     .backround-image{
         background-repeat: no-repeat;
@@ -445,6 +448,10 @@ footer{
          
    
     }
+
+    .icon{
+        font-size: 21.543px;
+    }
     .manu-baton-manu{
         width: 366px;
         height: 36px 
@@ -468,8 +475,7 @@ footer{
         margin-left: -128px;
         
     }
-    icon{
-        flex-direction: column;
+   
     }
     .backround-image{
         width: 100%;
@@ -589,6 +595,19 @@ footer{
      }
      .a12{
         width: 100%;
+     }
+     .bor{
+        border: none;
+     }
+     .a13{
+        margin-left: -98px;
+     }
+     .get-1{
+        margin-left: -76px;
+        width: 361px;
+     }
+     .news1{
+        margin-left: -92px;
      }
 }
 
